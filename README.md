@@ -7,7 +7,7 @@
 ![Design preview for the Blog preview card coding challenge](./design/desktop-design.jpg)
 
 ส่วน [Link](https://offyok.github.io/Blog-preview-card/) นี้เป็นหน้า web ที่ผมเขียนออกมาได้นะครับ และ
-สำหรับคนที่สนใจอยากไปทำบ้างก็สามารถตามลิงค์นี้ไปตำกันได้เลยครับ [Blog preview card]https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS
+สำหรับคนที่สนใจอยากไปทำบ้างก็สามารถตามลิงค์นี้ไปตำกันได้เลยครับ [Blog preview card](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
 ## ไกด์ในการทำเพิ่มเติมนะครับ
 
